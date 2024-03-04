@@ -105,16 +105,12 @@
     .contenedor_imagen #imagen_television {
         max-width: 100%; 
         max-height: 100%; 
+	width: 750px;
+ 	height: 500px;
         opacity: 0.0;
         transition: opacity 1s ease-in-out;
     }
-
-	img {
- width: 1224px;
-    height: 816px;
-}
-
-    
+ 
     .contenedor_imagen {
         display: flex;
         justify-content: center;
