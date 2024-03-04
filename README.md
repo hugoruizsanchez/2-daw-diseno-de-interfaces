@@ -5,8 +5,8 @@ En presente asignatura, he abarcado todos los aspectos fundamentales de CSS, cad
 
 Hay dos proyectos significativos: 
 
-- Retro Roadmaps (el proyecto de fin de curso para este módulo), que contiene fu
-- Página de Videojuegos (una página de videojuegos en que se aplican conocimientos del flex)
+- **Retro Roadmaps**: El proyecto de fin de curso para este módulo, que contiene funciones para deslizarse entre imágenes. mostrar texto progresivo en pantalla, transiciones, y un sistema de pseudo modelos tridimensionales para presentar los cartuchos. Este proyecto ha necesitado ser comprimido para subirse a github, por lo que alguna de las imagenes no contará con la mejor resolución
+- **Página de Videojuego**: Una página de videojuegos en que se aplican conocimientos del flex.
 
 ### Contenido del curso: 
 - Selectores
